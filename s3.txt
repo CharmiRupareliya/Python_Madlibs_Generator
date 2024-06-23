@@ -1,0 +1,5 @@
+"The Space Adventure"
+
+In the year <year>, <name> was chosen to be the first person to travel to <planet>. Armed with a <adjective>
+spacesuit and a bag of <plural noun>, <pronoun> blasted off in a <adjective> rocket. Upon landing, <name> encountered
+<adjective> aliens who spoke in <language>. With <adjective> courage, <name> negotiated peace and returned home a hero.
